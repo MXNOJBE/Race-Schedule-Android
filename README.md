@@ -1,6 +1,6 @@
 # Race-Schedule
 
-![App Logo](screenshots/raceschedulelogo.png)
+![App Logo](raceschedulelogo.png)
 
 Welcome to the Race-Schedule App! This application is designed to provide users with F1  events, viewing Drivers and Team leaderboards. Below, you'll find some screenshots and details about the technologies used in this project.
 
