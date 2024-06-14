@@ -7,24 +7,24 @@ Welcome to the Race-Schedule App! This application is designed to provide users 
 ## Screenshots
 
 ### Home Screens
-![Home Dark](screenshots/homedark.png)
-![Home Light](screenshots/screenshots/homelight.png)
+![Home Dark](homedark.png)
+![Home Light](screenshots/homelight.png)
 
 ### Driver Leaderboards
-![Leaderboard Dark](screenshots/leaderboarddark.png)
-![Leaderboard Dark Alternative](screenshots/leaderboard2dark.png)
-![Leaderboard Light](screenshots/leaderboardlight.png)
+![Leaderboard Dark](leaderboarddark.png)
+![Leaderboard Dark Alternative](leaderboard2dark.png)
+![Leaderboard Light](leaderboardlight.png)
 
 ### Previous Races
-![Previous Results Dark](screenshots/previousdark.png)
+![Previous Results Dark](previousdark.png)
 
 ### Team Leaderboards
-![Team Dark](screenshots/teamdark.png)
-![Team Light](screenshots/teamheight.png)
+![Team Dark](teamdark.png)
+![Team Light](teamheight.png)
 
 ### Upcoming Races
-![Upcoming Dark](screenshots/upcomingdark.png)
-![Upcoming Light](screenshots/upcominglight.png)
+![Upcoming Dark](upcomingdark.png)
+![Upcoming Light](upcominglight.png)
 
 ## Technologies Used
 
