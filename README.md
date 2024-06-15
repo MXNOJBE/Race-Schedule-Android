@@ -36,5 +36,5 @@ Welcome to the Race-Schedule App! This application is designed to provide users 
 - **Coroutines**: For managing background tasks and asynchronous operations.
 - **ViewModel**: Architecture component for managing UI-related data in a lifecycle-conscious way.
 
-### Supposed to be an Recruiter Release / Code will be uploaded after some period of time
+### Supposed to be an Recruiter Release
 
