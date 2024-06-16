@@ -23,7 +23,6 @@ Welcome to the Race-Schedule App! This application is designed to provide users 
 ![Team Light](teamlight.png)
 
 ### Upcoming Races
-![Upcoming Dark](upcomingdark.png)
 ![Upcoming Light](upcominglight.png)
 
 ## Technologies Used
@@ -36,5 +35,5 @@ Welcome to the Race-Schedule App! This application is designed to provide users 
 - **Coroutines**: For managing background tasks and asynchronous operations.
 - **ViewModel**: Architecture component for managing UI-related data in a lifecycle-conscious way.
 
-### Supposed to be an Recruiter Release
+### Supposed to be an Internal Release
 
