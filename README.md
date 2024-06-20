@@ -7,12 +7,9 @@ Welcome to the Race-Schedule App! This application is designed to provide users 
 ## Screenshots
 
 ### Home Screens
-![Home Dark](homedark.png)
 ![Home Light](homelight.png)
 
 ### Driver Leaderboards
-![Leaderboard Dark](leaderboard1dark.png)
-![Leaderboard Dark Alternative](leaderboard2dark.png)
 ![Leaderboard Light](leaderboardlight.png)
 
 ### Previous Races
